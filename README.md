@@ -1,16 +1,64 @@
-### Hi there 👋
+  <img
+    alt="Coding"
+    width="150"
+    height="150"
+    align="right"
+    src="https://i.ibb.co/0G0x0QG/github.jpg"
+  />
+  <h1 align="center">Hi 👋, I'm Jyothi Santoshi Karuturi</h1>
+  <h3 align="center">
+    Graduate Student @ University of Florida | Software Developer @ OYO Rooms
+  </h3>
+  <!--<img align="right" alt="Coding" width="150" height="150" src="https://i.ibb.co/0G0x0QG/github.jpg"/> -->
+  <hr />
 
-<!--
-**santoshi-1/santoshi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>About Me</h3>
+  <p>I'm a computer science graduate student who is deeply enthusiastic about Full Stack Development. I possess a strong drive for crafting user-friendly interfaces coupled with a backend that can easily scale. Furthermore, I have a keen interest in delving into the realm of data structures and algorithms. I enjoy taking on intricate problems directly, aiming to provide technically robust solutions that operate with optimal effectiveness.</p>
 
-Here are some ideas to get you started:
+  <hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshi-1&show_icons=true&locale=en&layout=compact"
+      alt="santoshi-1"
+    />
+  </p>
+
+  <p>
+    &nbsp;<img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=santoshi-1&show_icons=true&locale=en"
+      alt="santoshi-1"
+    />
+  </p>
+
+  <hr />
+
+  <p>
+    <img
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=santoshi-1&"
+      alt="santoshi-1"
+    />
+  </p>
+
+   <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/santoshi-karuturi" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="santoshi-karuturi"
+        height="30"
+        width="40"
+    /></a>
+    <a href="https://www.leetcode.com/santoshi_karuturi" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+        alt="santoshi_karuturi"
+        height="30"
+        width="40"
+    /></a>
+  </p>
