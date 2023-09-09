@@ -6,10 +6,9 @@
     src="https://i.ibb.co/0G0x0QG/github.jpg"
   />
   <h1 align="center">Hi 👋, I'm Jyothi Santoshi Karuturi</h1>
-  <h3 align="center">
-    Graduate Student @ University of Florida | Software Developer @ OYO Rooms
-  </h3>
-  <!--<img align="right" alt="Coding" width="150" height="150" src="https://i.ibb.co/0G0x0QG/github.jpg"/> -->
+  <h5 align="center"><em>
+    Graduate Student @ University of Florida | Software Developer @ OYO Rooms</em>
+  </h5>
   <hr />
 
   <h3>About Me</h3>
@@ -19,19 +18,19 @@
 
   <p>
     <img
-      align="left"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshi-1&show_icons=true&locale=en&layout=compact"
       alt="santoshi-1"
     />
   </p>
 
-  <p>
+<!--  <p>
     &nbsp;<img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=santoshi-1&show_icons=true&locale=en"
       alt="santoshi-1"
     />
-  </p>
+  </p> -->
 
   <hr />
 
@@ -50,15 +49,15 @@
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="santoshi-karuturi"
-        height="30"
-        width="40"
+        height="20"
+        width="20"
     /></a>
     <a href="https://www.leetcode.com/santoshi_karuturi" target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
         alt="santoshi_karuturi"
-        height="30"
-        width="40"
+        height="20"
+        width="20"
     /></a>
   </p>
