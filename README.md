@@ -30,7 +30,7 @@
       src="https://github-readme-stats.vercel.app/api?username=santoshi-1&show_icons=true&locale=en"
       alt="santoshi-1"
     />
-  </p> -->
+  </p> 
 
   <hr />
 
@@ -40,7 +40,8 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=santoshi-1&"
       alt="santoshi-1"
     />
-  </p>
+  </p> -->
+  <hr/>
 
    <h3 align="left">Connect with me:</h3>
   <p align="left">
