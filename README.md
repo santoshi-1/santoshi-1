@@ -7,7 +7,7 @@
   />
   <h1 align="center">Hi 👋, I'm Jyothi Santoshi Karuturi</h1>
   <h5 align="center"><em>
-    Graduate Student @ University of Florida | Software Developer @ OYO Rooms</em>
+    Graduate Student @ University of Florida | Ex-Software Developer @ OYO Rooms</em>
   </h5>
   <hr />
 
