@@ -53,12 +53,12 @@
         height="20"
         width="20"
     /></a>
-    <a href="https://www.leetcode.com/santoshi_karuturi" target="blank"
+   <!-- <a href="https://www.leetcode.com/santoshi_karuturi" target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
         alt="santoshi_karuturi"
         height="20"
         width="20"
-    /></a>
+    /></a> -->
   </p>
